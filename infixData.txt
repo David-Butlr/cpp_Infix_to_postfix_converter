@@ -1,0 +1,25 @@
+a + b
+a + b * c
+a * b + c
+a - b + (w * p)
+(a - b) * (c + d)
+a - b * c - d
+(a + b) * c + d
+(a + b + c) * d
+(a + b) / (c * d)
+(A + B) / (C * D)
+(a + b) * (c - d / e) + f
+(a + b + c) * d + e / (f - g)
+A + B * (C + D) - E / F * G + H
+(B + C) * (E - F) - G / (H - I)
+(B + C) * (E - F) - (G / H - I)
+x * (y + z) - (w + t)
+(x + y) / (z - w) * t
+((x - y) + (z - w) / t) * u
+x - y / (z + w) * t / (v - s)
+(a + (b * c - (d / e)))
+(g * f / e) * (a - b) / (w * h)
+(2 + 3 + 4) / (7 - 5 - 4)
+2 + 3 + 4 + 5 + 6 + 7 + 8
+(2 + 3 / 4) * (8 - b) + (8 * g)
+2 + 3 / 4 * a - b + 8 * g
